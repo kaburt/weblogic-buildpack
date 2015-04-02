@@ -18,7 +18,7 @@
 # You must specify a the repository root of an Oracle WebLogic repository. Please see the documentation for more detail.
 # e.g.  repository_root: "http://example.com/oracle-wls/{platform}/{architecture}"
 
-version: 12.1.+
+version: 12.1.2 
 repository_root: "http://s3-ap-northeast-1.amazonaws.com/tkaburagi"
 
 # prefer_app_config - Use the App bundled configs over the buildpack bundled configs?
